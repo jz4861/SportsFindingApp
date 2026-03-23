@@ -14,15 +14,6 @@ Members
 ## Short History
 The idea of Huddle came from asking friends and family which issues they have that they believe could be solved by technology. My brother, an advid baseball player, told me he always hates when he does not have enough players to start a game of baseball at the park. He said he wished there could be an app that connects players to each other for pickup games. I built on this idea to include rankings to gamify experiences and make sports more enjoyable to progess in skill.
 
-1. See the [Sprint Planning instructions](instructions-0d-sprint-planning.md) for the requirements of Sprint Planning for each Sprint.
-
-1. See the [Front-End Development instructions](./instructions-1-front-end.md) for the requirements of the initial Front-End Development.
-
-1. See the [Back-End Development instructions](./instructions-2-back-end.md) for the requirements of the initial Back-End Development.
-
-1. See the [Database Integration instructions](./instructions-3-database.md) for the requirements of integrating a database into the back-end.
-
-1. See the [Deployment instructions](./instructions-4-deployment.md) for the requirements of deploying an app.
 
 ### Build and launch the back end
 
